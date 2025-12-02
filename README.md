@@ -1,153 +1,155 @@
-OmniNet Protocol — v2.0
+Vytrion Protocol — v2.0
 A Full-Stack Next-Generation Internet Architecture for Identity, Intelligence & Holographic Computing
 
-OmniNet is a full-stack next-generation internet architecture designed to unify identity, data, intelligence, communication, compute, and holographic interfaces into a single user-owned digital ecosystem.
+Vytrion is a full-stack, next-generation internet architecture designed to unify identity, data, intelligence, communication, compute, and holographic interfaces into a single user-owned digital ecosystem.
 
-This repository contains the official OmniNet Whitepaper v2.0, authored by:
+This repository contains the official Vytrion Whitepaper v2.0, authored by:
 
 Alain Mercier
-Creator & Architect of the OmniNet Protocol
+Creator & Architect of the Vytrion Protocol
 © 2025 — All Rights Reserved.
 
-🌐 What Is OmniNet?
+🌐 What Is Vytrion?
 
-OmniNet replaces today’s centralized, siloed, surveillance-driven Web2/Web3 systems with a unified, privacy-first, AI-native internet layer engineered for:
+Vytrion replaces today’s centralized, siloed, surveillance-driven Web2/Web3 stacks with a unified, privacy-first, AI-native internet layer engineered for:
 
 AI-native personal computing
 
 Autonomous agents & distributed intelligence
 
-Holographic & AR user interfaces
+Holographic & AR operating environments
 
-Semantic data models
+Semantic identity & knowledge models
 
-Multi-device ecosystems
+Multi-device and multi-agent ecosystems
 
 Local + global mesh networking
 
-User-owned identity & trust
+User-owned identity and trust
 
-OmniNet is not a blockchain, not a cloud service, and not a traditional OS.
-It is a new internet layer purpose-built for the next era of computing.
+Vytrion is not a blockchain, not a cloud platform, and not a traditional OS.
+It is a new internet layer, purpose-built for the next era of computing.
 
-🧬 OmniNet Architecture (Full Stack)
+🧬 Vytrion Architecture (Full Stack)
 
-OmniNet introduces a layered architecture spanning identity, data, intelligence, networking, compute, and UI.
+Vytrion introduces a seamlessly integrated stack spanning identity, data, intelligence, networking, compute, and holographic UI.
 
-🔐 1. OmniID — Universal Identity Layer
+🔐 1. Vytrion ID — Universal Identity Layer
 
 Self-sovereign, cryptographically secured personal identity.
 
-🧱 2. OmniVault — Encrypted Personal Data Layer
+🧱 2. Vytrion Vault — Encrypted Personal Data Layer
 
-User-owned memory, storage, and private compute.
+User-owned memory, storage, and private compute secured end-to-end.
 
-🕸 3. OmniGraph — Semantic Knowledge Graph
+🕸 3. Vytrion Graph — Semantic Intelligence Graph
 
-A unified real-time graph representing your identity, devices, knowledge, relationships, and AI agents.
+A unified, real-time graph representing your identity, devices, knowledge, relationships, and AI agents.
 
-🕶 4. OmniUI — Holographic & AR Operating Layer
+🕶 4. Vytrion Space — Holographic OS Layer
 
-Multi-modal, holographic, spatial computing environment.
+A multi-modal, holographic, spatial computing environment.
 
-🔄 5. OmniSync — Real-Time Sync Layer
+🔄 5. Vytrion Sync — Real-Time Sync Layer
 
-Atomic, lossless, delta-based synchronization across all devices.
+Atomic, lossless, delta-based synchronization across all devices and agents.
 
-📡 6. OmniMesh — Device-to-Device Mesh Networking
+📡 6. Vytrion Mesh — Device-to-Device Mesh Networking
 
-Resilient, local and global mesh routing for offline + hybrid connectivity.
+Resilient local + global mesh routing for hybrid and offline-first connectivity.
 
-🌐 7. OmniProtocol — New Communication Protocol
+🌐 7. Vytrion Protocol — New Communication Protocol
 
 A graph-native, intelligence-aware protocol beyond TCP/IP and HTTP.
 
 ⚙️ 8. HyperStructures — Distributed Compute Layer
 
-Self-balancing compute across devices, mesh nodes, and global networks.
+Self-balancing compute across devices, mesh nodes, and global Vytrion Net infrastructure.
 
-🛰 9. PrimeNet — Global Routing Architecture
+🛰 9. Vytrion Net — Global Routing Architecture
 
 A routing layer for identities, knowledge, sessions, and agents — not just packets.
 
-💠 10. OmniEconomy — Trust-Based Value System
+💠 10. Vytrion Economy — Trust-Based Value System
 
-A cryptographic trust and reputation layer without tokens or blockchain.
+A cryptographic trust, reputation, and exchange layer—without tokens, mining, or blockchain consensus.
 
-🧩 11. OmniNet SDK — Developer Framework
+🧩 11. Vytrion SDK — Developer Framework
 
-Tools for building graph-native, identity-native, AI-native applications.
+A complete toolkit for building graph-native, identity-native, AI-native applications on the Vytrion stack.
 
 🏗 High-Level Architecture Diagram
 +---------------------------------------------------------------+
-|                       OmniNet Application Layer               |
-|                 (AI, AR, Agents, Graph-Native Apps)           |
+|                    Vytrion Application Layer                  |
+|        (AI, AR, Autonomous Agents, Graph-Native Apps)         |
 +---------------------------------------------------------------+
-|                     OmniUI — Holographic Layer                |
+|                       Vytrion Space Layer                     |
 +---------------------------------------------------------------+
-|             OmniGraph — Semantic Intelligence Graph           |
+|                   Vytrion Graph — Intelligence                |
 +---------------------------------------------------------------+
-|    OmniVault — Personal Data     |       OmniID — Identity    |
+|      Vytrion Vault — Personal Data     |   Vytrion ID         |
 +---------------------------------------------------------------+
-| OmniSync | HyperStructures | OmniMesh | OmniProtocol          |
+| Vytrion Sync | HyperStructures | Vytrion Mesh | Vytrion Protocol |
 +---------------------------------------------------------------+
-|                 PrimeNet — Global Routing Layer               |
+|                   Vytrion Net — Global Routing                |
 +---------------------------------------------------------------+
-|          Physical Devices / Local Mesh / Global Networks      |
+|       Physical Devices / Edge Mesh / Global Networks          |
 +---------------------------------------------------------------+
 
 🧠 Research Positioning
 
-OmniNet contributes to multiple frontier research domains:
+Vytrion contributes to multiple frontier domains:
 
 AI-native internet architecture
 
-Internet of Agents (IoA)
+Internet of Autonomous Agents (IoA)
 
 Post-TCP/IP protocol design
 
-Semantic identity & data layers
+Semantic identity + graph-native data
 
 Distributed intelligence networks
 
 Holographic operating systems
 
-Graph-native compute & routing
+Mesh-native compute & routing
 
 Ambient computing ecosystems
 
-These fields are active at Google DeepMind, OpenAI, Microsoft Research, Meta, Apple, Nvidia, and top universities.
+These research areas overlap with active work in:
 
-🆚 Why OmniNet Is Different
+Google DeepMind, OpenAI, Apple, Meta, Microsoft Research, Nvidia, MIT, CMU, Stanford, and global research groups.
+
+🆚 Why Vytrion Is Different
 Compared to Web2
 
 ✔ No data silos
 ✔ No platform lock-in
-✔ User owns their identity
+✔ User controls identity & data
 
 Compared to Web3 / Blockchain
 
 ✔ No tokens or mining
-✔ No global consensus latency
-✔ Identity-based trust (not economic-based)
+✔ No global consensus overhead
+✔ Trust based on identity & reputation, not economics
 
 Compared to IPFS
 
 ✔ Identity-aware
-✔ Stateful sync
+✔ Stateful
 ✔ Graph-native
 
-Compared to Traditional Operating Systems
+Compared to Traditional OS
 
 ✔ Network-first
 ✔ Holographic-native
-✔ AI as a core subsystem
+✔ AI is a core subsystem
 
 📄 Whitepaper
 
-The full technical whitepaper is available here:
+Full technical whitepaper:
 
-➡ /v2.0/OmniNet-Whitepaper-v2.0.md
+➡ /v2.0/Vytrion-Whitepaper-v2.0.md
 
 Includes:
 
@@ -159,13 +161,13 @@ Routing models
 
 Compute structure diagrams
 
-Holographic UI concepts
+Holographic OS concepts
 
 Long-term vision
 
 🔮 Vision
 
-OmniNet aims to become the foundational digital layer for:
+Vytrion aims to become the foundational digital layer for:
 
 AI-native operating environments
 
@@ -175,33 +177,32 @@ Planet-scale distributed intelligence
 
 Universal digital identity
 
-Secure, user-owned data ecosystems
+Secure user-owned data ecosystems
 
 A new global routing paradigm
 
-🚧 Development Roadmap
-Upcoming Milestones
+🚧 Development Roadmap — Upcoming Milestones
 
-OmniNet OS (holographic UI)
+Vytrion OS (Holographic UI)
 
-OmniGraph Engine
+Vytrion Graph Engine
 
-OmniProtocol Simulation
+Vytrion Protocol Simulation
 
-OmniMesh Network Layer
+Vytrion Mesh Network Layer
 
-OmniSync Delta Engine
+Vytrion Sync Delta Engine
 
-OmniNet SDK
+Vytrion SDK
 
 Holographic UI prototypes
 
-PrimeNet Routing Simulation
+Vytrion Net Routing Simulation
 
-Distributed compute HyperStructure
+Distributed compute HyperStructures
 
 🤝 Contact
 
 Alain Mercier
-Creator & Architect of the OmniNet Protocol
+Creator & Architect of the Vytrion Protocol
 📧 Email: mercier_racing95@hotmail.com
