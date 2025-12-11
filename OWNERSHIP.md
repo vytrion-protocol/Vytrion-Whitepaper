@@ -7,7 +7,7 @@ Year: 2025
 
 This document certifies that all concepts, designs, phases, architectures, and systems described in the Vytrion Whitepaper v2.0 and all supporting materials were created by:
 
-Alain Mercier (@mercier_racing95)
+Alain Mercier (@Vytrion_protocol)
 Creator, Designer, and Original Architect of the Vytrion system.
 
 This includes full ownership of:
@@ -37,4 +37,4 @@ All intellectual property — including software designs, interaction models, ne
 No other individual, organization, or entity holds rights, authorship, or claims to the Vytrion architecture unless explicitly authorized in writing by the owner.
 
 For inquiries regarding usage, licensing, or partnership, contact:
-mercier_racing95@hotmail.com
+vytrion_protocol@outlook.com
